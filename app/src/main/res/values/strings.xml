@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HW03</string>
+    <integer-array name="image_list">
+        <item>@drawable/apple</item>
+        <item>@drawable/avocado</item>
+        <item>@drawable/banana</item>
+        <item>@drawable/cherries</item>
+        <item>@drawable/coconut</item>
+
+
+    </integer-array>
+</resources>
